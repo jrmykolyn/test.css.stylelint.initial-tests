@@ -4,4 +4,4 @@ module.exports = {
 		"indentation": "tab",
 		"unit-whitelist": [ "rem", "%" ]
 	}
-}
+};
