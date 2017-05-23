@@ -1,0 +1,23 @@
+{
+  "name": "test.css.stylelint.initial-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": ".stylelintrc.js",
+  "dependencies": {
+    "stylelint-config-standard": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmykolyn/test.css.stylelint.initial-tests.git"
+  },
+  "author": "Jesse R Mykolyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmykolyn/test.css.stylelint.initial-tests/issues"
+  },
+  "homepage": "https://github.com/jrmykolyn/test.css.stylelint.initial-tests#readme"
+}
